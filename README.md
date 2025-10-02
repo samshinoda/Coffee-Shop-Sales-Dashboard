@@ -11,10 +11,10 @@ El objetivo es:
 - Identificar los productos más y menos rentables.
 - Analizar los horarios y meses de mayor actividad.
 
-He utilizado Microsoft Excel, aplicando:
-- Limpieza y preparación de datos.
-- Análisis de los mismos a través tablas dinámicas.
-- Visualización interactiva mediante gráficos y segmentadores de datos.
+Se ha utilizado Microsoft Excel, aplicando:
+- **Limpieza y preparación de datos:** Adición de las columnas *Ventas totales*, *mes* y *dia semana* para un análisis más completo y sencillo.
+- **Análisis de los datos:** Ejecución de tablas dinámicas en relación a las variables más relevantes para el estudio.
+- **Visualización interactiva mediante gráficos y segmentadores de datos**: Realización del dashboard teniendo en cuenta el diseño de Maven Coffee y sus colores corporativos.
 
 ---
 
