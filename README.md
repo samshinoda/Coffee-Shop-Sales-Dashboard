@@ -12,9 +12,9 @@ El objetivo es:
 - Analizar los horarios y meses de mayor actividad.
 
 He utilizado Microsoft Excel, aplicando:
-- Tablas dinámicas.
-- Segmentadores de datos.
-- Gráficos dinámicos para visualizar tendencias y patrones.
+- Limpieza y preparación de datos.
+- Análisis de los mismos a través tablas dinámicas.
+- Visualización interactiva mediante gráficos y segmentadores de datos.
 
 ---
 
